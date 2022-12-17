@@ -1,0 +1,5 @@
+S = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+n = 1
+K = int(input())
+
+print(S[n-1:n-1+K])
